@@ -5,7 +5,7 @@ for [_Do By Friday_](https://dobyfriday.com "A weekly challenge show hosted by A
 
 ## Short Version
 
-By invoking a quick phrase, Siri captures a sentence or two of dictated text and adds it to a bucket where the user can do something with it later. Critically, it also automatically captures the location where the note was made as well as the date and time of the note. The note is written to a file in a format and file-kind that's suitable for other uses.
+By invoking a quick phrase, Siri captures a sentence or two of dictated text and adds it to a bucket where the user can do something with it later. Critically, it also captures the location where the note was made as well as the date and time of the note. The note is written to a file in a format and file-kind that's suitable for other uses.
 
 ## Genesis
 
@@ -21,7 +21,7 @@ With that said, I can think of _so_ many other uses for a simple voice log that 
 
 ## Some Options I've Considered
 
-* **Apple Reminders**. "Hey, Dingus, remind me to [_do a thing_] in one hour" is something I yell into the air a lot, and it usually works a treat. But, even more important than not wanting to clog up my TODO list with things that aren't tasks, to my knowledge, Reminders does not natively capture stuff like the _time_ that the Reminder was created or the geolocation data for _where_ it was created.
+* **Apple Reminders**. "Hey, Dingus, remind me to [_do a thing_] in one hour" is something I yell into the air a lot, and it usually works a treat. But, even more important than not wanting to dilute my TODO list by adding things that aren't tasks, to my knowledge, Reminders does not natively capture stuff like the _time_ that the Reminder was created or the geolocation data for _where_ it was created.
 * **Apple Notes**. Yes: using Siri to append to an Apple Note seems like table stakes for such an app and service. But—at least to my knowledge—appending to a Note is not possible using Siri (at least in the absence of something like a Siri Shortcut that I lack the skills to make)
 * **Drafts**. This is another very promising contender, especially since Drafts Actions like [WalkWriter](https://actions.getdrafts.com/a/1Mw), [Quick Journal](https://actions.getdrafts.com/g/1Sd), or [Assemble Diary](https://actions.getdrafts.com/a/1P8) seem this 🤏 close to doing what I want. I just haven't figured out how to do it via Siri and in an output format I'd like.
 * **Day One, Diarly, or similar**. Obviously it makes sense to start with a diary app/service since _logging_ is definitionally what they do. But, in my admittedly short time looking into it, I haven't found a way to make it all happen hands-free. Also, nobody likes subscribing to a service before knowing whether it'll do exactly what they need.
