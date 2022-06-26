@@ -1,2 +1,3 @@
 # dbf-voice-log
-Alex and Merlin want to just say things into the air.
+Alex and Merlin just want to yell things into the air.
+
